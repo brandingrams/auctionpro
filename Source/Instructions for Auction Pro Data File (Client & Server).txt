@@ -1,0 +1,34 @@
+Auction Pro Suite 0.5 (Wiatava Build)
+-------------------------------------
+The 0.5 minor version of the Auction Pro Suite requires that the 'Auction Pro Data.mbd' file be accessed by the 'T:\' root volume. That is for both the server and each client running it.
+
+
+Insturcitons for Win2000/XP in a Workgroup Environment
+------------------------------------------------------
+SERVER:
+Providing the server will not be running an instance of the Auction Pro Client, the directory that 'Auction Pro Data.mbd' resides in just needs to be shared.
+
+Sharing Setup:
+1. Right-click on the directory that 'Auction Pro Data.mbd' resides in. Select 'Sharing and Security'.
+
+2. Check the box 'Share this folder on the network'. Be sure that 'Allow network users to change my files' is also checked.
+
+3. Click OK
+
+
+CLIENTS:
+All workstations (and the server if it is running an instance of it) with Auction Pro or Auction pro Kiosk need a 'T:\' root drive network mapped to the shared directory on the data server.
+
+To setup mapped 'T:\' drive:
+1. Right-click on 'My Computer'. Click 'Map Network Drive'
+
+2. Select 'T:' in the drive pull-down menu.
+
+3. If you know the network path to the Auction Pro Data server, you may enter it directly here. (i.e. "\\aproserver\data") If not, click on browse and find the data directory on the network.
+
+4. If you want the drive mapped after a restart, click "Reconnect at logon". Otherwise, click finish.
+
+5. You may start the Auction Pro or Auction Pro Kiosk program.
+
+
+

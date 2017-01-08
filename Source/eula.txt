@@ -1,0 +1,22 @@
+Auction Pro Suite 0.5 (Wiatava Build)
+-------------------------------------
+
+End-User License Agreement (EULA)
+
+THIS IS A LEGAL AGREEMENT BETWEEN YOU AND IMAGINATIONAL INSIGHTS. CAREFULLY READ ALL THE TERMS AND CONDITIONS OF THIS AGREEMENT PRIOR TO INSTALLING THE SOFTWARE. DOWNLOADING AND INSTALLING THE SOFTWARE INDICATES YOUR ACCEPTANCE OF THESE TERMS AND CONDITIONS.
+
+1. License: The License Agreement ("Agreement") grants you the use of the Auction Pro software ("Software"). This version of the Software is intended for your personal/commercial use. You may not modify, translate, reverse engineer, decompile, disassemble, and otherwise attempt to derive source code from the Software (except to the extent applicable laws specifically prohibit such restriction). You are granted a revocable, non-assignable limited license to create derivative works of this software solely for your own personal/commercial use and may publicly display such derivative works. The Software, may not be copied, except as provided below, resold, rented, leased or distributed (electronically or otherwise). You may make copies of the Software for archival purposes only. The limited right to copy expressly excludes any copying or distribution of the Software on a commercial basis, including, without limitation, bundling the Software with any other product or service. All rights not expressly granted are reserved.
+
+2. Title & Copyright: Title, ownership, and intellectual property rights in and to the Software, and derivatives thereof, remain with Imaginational Insights. The Software is protected by United States and international copyright laws and international treaty provisions. Do not remove, obscure, or alter any notice of patent, copyright, trademark, trade secret or other proprietary rights.
+
+3. Term: This Agreement is effective until terminated. This Agreement and your rights to use the Software terminate automatically if you violate any part of this Agreement.
+
+4. Limited Warranty: Imaginational Insights has made reasonable checks of the Software to confirm that it will perform during normal use on compatible equipment. However, due to the inherently complex nature of computer software, Imaginational Insights does not warrant that the Software is error-free, will operate without limitation, is compatible with all equipment and software configurations, or will otherwise meet your needs. 
+
+THE SOFTWARE IS PROVIDED AS-IS, AND YOU ASSUME ALL RISKS ASSOCIATED WITH ITS USE. IMAGINATIONAL INSIGHTS MAKES NO WARRANTIES, EXPRESS OR IMPLIED, WITH RESPECT TO THE SOFTWARE, ITS MERCHANT ABILITY, OR ITS FITNESS FOR ANY PARTICULAR PURPOSE. IMAGINATIONAL INSIGHTS WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, INCLUDING, WITHOUT LIMITATIONS, LOSS OF INCOME, USE, OR INFORMATION.
+
+5. Return Policy: A full functioning demo or evaluation program is available at no charge for your review, therefore no refunds will be made on any registered software.
+
+6. General: This Agreement constitutes the entire Agreement between you and Imaginational Insights and supersedes any prior written or oral Agreement concerning the contents of the Software.
+
+7. Governing Law:  The performance, validity, rights and interpretation of this License will be governed by the laws of the State of California.
